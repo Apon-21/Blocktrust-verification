@@ -12,7 +12,7 @@ Designed for universities, scholarship committees, and employers, it ensures ins
 - ✅ **Immutable Records:** All certificates stored on Ethereum Sepolia Testnet.  
 - ✅ **Instant Verification:** Anyone can verify certificates via the web app.  
 - ✅ **No Wallet Required:** Read-only access using public RPC (MetaMask optional).  
-- ✅ **CV & Research Ready:** Full Web3 system design showcased.
+
 
 ---
 
